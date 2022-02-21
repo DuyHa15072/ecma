@@ -17,6 +17,9 @@ const NavAdmin = {
     
                   <a href="/admin/products" class="text-gray-300 hover:bg-gray-700 decoration-white no-underline hover:text-white px-3 py-2 rounded-md text-sm font-medium">Products</a>
                   <a href="/admin/user  " class="text-gray-300 hover:bg-gray-700 decoration-white no-underline hover:text-white px-3 py-2 rounded-md text-sm font-medium">User</a>
+                  
+                  <a href="" class="text-gray-300 hover:bg-gray-700 decoration-white no-underline hover:text-white px-3 py-2 rounded-md text-sm font-medium">Oder</a>
+                  <a href="" class="text-gray-300 hover:bg-gray-700 decoration-white no-underline hover:text-white px-3 py-2 rounded-md text-sm font-medium">Setting</a>
                 </div>
               </div>
             </div>
